@@ -6,7 +6,6 @@ High-quality liveries for the Fenix Airbus A319 representing the Czech Air Force
 |--|--|
 | **Aircraft** | Fenix Airbus A319 CFM |
 | **Liveries** | Czech Air Force CEF-2081, CEF-3085 |
-| **Version** | 1.0 |
 | **Simulator** | Microsoft Flight Simulator 2020 & 2024 |
 | **License** | See LICENSE file |
 
