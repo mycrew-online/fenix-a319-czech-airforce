@@ -17,8 +17,6 @@ High-quality liveries for the Fenix Airbus A319 representing the Czech Air Force
 - [Requirements](#requirements)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
-- [Support](#support)
 
 ## Installation
 
