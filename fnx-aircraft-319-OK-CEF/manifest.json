@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "AIRCRAFT",
+  "title": "Fenix Airbus A319 - Czech Airforce",
+  "manufacturer": "Airbus",
+  "creator": "Martin Hrášek",
+  "package_version": "0.2.0",
+  "minimum_game_version": "1.37.19",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  }
+}
