@@ -101,21 +101,10 @@ fnx-aircraft-319-OK-CEF/
 
 ## Contributing
 
-Contributions are welcomed and must follow [Code of Conduct](https://github.com/mycrew-online/fenix-a319-czech-airforce?tab=coc-ov-file) and common [Contributions guidelines](https://github.com/mycrew-online/fenix-a319-czech-airforce/blob/main/docs/CONTRIBUTING.md).
+Contributions are welcomed and must follow [Code of Conduct](https://github.com/mycrew-online/fenix-a319-czech-airforce?tab=coc-ov-file) and common [Contributions guidelines](https://github.com/mycrew-online/.github/blob/main/docs/CONTRIBUTING.md).
 
 > If you'd like to report security issue please follow [security guidelines](https://github.com/mycrew-online/fenix-a319-czech-airforce?tab=security-ov-file).
 
-## License
-
-This project is licensed under the terms specified in the LICENSE file. Please see the LICENSE file for full license text.
-
-## Support
-
-For support and questions:
-
-- 📖 Check the [documentation](../../wiki) (if available)
-- 🐛 Report bugs via [Issues](../../issues)
-- 💬 Join community discussions in [Discussions](../../discussions) (if available)
 
 ## Acknowledgments
 
