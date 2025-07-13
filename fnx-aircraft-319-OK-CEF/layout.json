@@ -1,464 +1,464 @@
 {
   "content": [
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/aircraft.cfg",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/aircraft.cfg",
       "size": 1039,
-      "date": 133966311787755407
+      "date": 133968654255201428
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A319_FUSE_1_ALBD.PNG.dds",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A319_FUSE_1_ALBD.PNG.dds",
       "size": 33554560,
-      "date": 133965488527506911
+      "date": 133968653724150397
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A319_fuse_1_Albd.png.DDS.FLAGS",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A319_fuse_1_Albd.png.DDS.FLAGS",
       "size": 18,
-      "date": 133683886800000000
+      "date": 133968653726702420
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A319_FUSE_1_ALBD.PNG.DDS.json",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A319_FUSE_1_ALBD.PNG.DDS.json",
       "size": 83,
-      "date": 133683886760000000
+      "date": 133968653722898518
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A319_fuse_1_Comp.png.DDS.FLAGS",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A319_fuse_1_Comp.png.DDS.FLAGS",
       "size": 18,
-      "date": 133683886800000000
+      "date": 133968653726702420
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A319_FUSE_1_COMP.PNG.DDS.json",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A319_FUSE_1_COMP.PNG.DDS.json",
       "size": 147,
-      "date": 133683886770000000
+      "date": 133968653724150397
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A319_FUSE_2_ALBD.PNG.dds",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A319_FUSE_2_ALBD.PNG.dds",
       "size": 33554560,
-      "date": 133965540194477060
+      "date": 133968653725451145
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A319_fuse_2_Albd.png.DDS.FLAGS",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A319_fuse_2_Albd.png.DDS.FLAGS",
       "size": 18,
-      "date": 133683886800000000
+      "date": 133968653726702420
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A319_FUSE_2_ALBD.PNG.DDS.json",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A319_FUSE_2_ALBD.PNG.DDS.json",
       "size": 83,
-      "date": 133683886770000000
+      "date": 133968653724160757
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A319_fuse_2_Comp.png.DDS.FLAGS",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A319_fuse_2_Comp.png.DDS.FLAGS",
       "size": 18,
-      "date": 133683886800000000
+      "date": 133968653726702420
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A319_FUSE_2_COMP.PNG.DDS.json",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A319_FUSE_2_COMP.PNG.DDS.json",
       "size": 147,
-      "date": 133683886780000000
+      "date": 133968653725471132
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A319_FUSE_3_ALBD.PNG.dds",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A319_FUSE_3_ALBD.PNG.dds",
       "size": 33554560,
-      "date": 133965486177104161
+      "date": 133968653726661299
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A319_fuse_3_Albd.png.DDS.FLAGS",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A319_fuse_3_Albd.png.DDS.FLAGS",
       "size": 18,
-      "date": 133683886800000000
+      "date": 133968653726702420
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A319_FUSE_3_ALBD.PNG.DDS.json",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A319_FUSE_3_ALBD.PNG.DDS.json",
       "size": 83,
-      "date": 133683886780000000
+      "date": 133968653725471132
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A319_fuse_3_Comp.png.DDS.FLAGS",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A319_fuse_3_Comp.png.DDS.FLAGS",
       "size": 18,
-      "date": 133683886800000000
+      "date": 133968653726702420
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A319_FUSE_3_COMP.PNG.DDS.json",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A319_FUSE_3_COMP.PNG.DDS.json",
       "size": 147,
-      "date": 133683886800000000
+      "date": 133968653726702420
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A320_CABIN_FNX_ALBD.PNG.DDS",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A320_CABIN_FNX_ALBD.PNG.DDS",
       "size": 22369796,
-      "date": 133689064010000000
+      "date": 133968653726979017
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A320_CABIN_FNX_ALBD.PNG.DDS.json",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A320_CABIN_FNX_ALBD.PNG.DDS.json",
       "size": 119,
-      "date": 133683886800000000
+      "date": 133968653726979017
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A320_CFM_COWLING_ALBD.PNG.dds",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A320_CFM_COWLING_ALBD.PNG.dds",
       "size": 16777364,
-      "date": 133961945084641099
+      "date": 133968653727884908
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A320_CFM_cowling_Albd.png.DDS.FLAGS",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A320_CFM_cowling_Albd.png.DDS.FLAGS",
       "size": 18,
-      "date": 133529517100000000
+      "date": 133968653729676648
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A320_CFM_COWLING_ALBD.PNG.DDS.json",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A320_CFM_COWLING_ALBD.PNG.DDS.json",
       "size": 83,
-      "date": 133529517100000000
+      "date": 133968653726979017
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A320_CFM_INTERNALS_ALBD.PNG.DDS",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A320_CFM_INTERNALS_ALBD.PNG.DDS",
       "size": 33554560,
-      "date": 133586451580000000
+      "date": 133968653729676648
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A320_CFM_internals_Albd.png.DDS.FLAGS",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A320_CFM_internals_Albd.png.DDS.FLAGS",
       "size": 18,
-      "date": 133516715640000000
+      "date": 133968653729676648
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A320_CFM_INTERNALS_ALBD.PNG.DDS.json",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A320_CFM_INTERNALS_ALBD.PNG.DDS.json",
       "size": 83,
-      "date": 133529517100000000
+      "date": 133968653729676648
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A320_DECALS_DOORS_ALBD.PNG.DDS",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A320_DECALS_DOORS_ALBD.PNG.DDS",
       "size": 1048724,
-      "date": 133962150592269426
+      "date": 133968653729718386
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A320_DECALS_DOORS_ALBD.PNG.DDS.json",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A320_DECALS_DOORS_ALBD.PNG.DDS.json",
       "size": 119,
-      "date": 133683886800000000
+      "date": 133968653729718386
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A320_DECALS_EXTERIOR_ALBD.PNG.DDS",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A320_DECALS_EXTERIOR_ALBD.PNG.DDS",
       "size": 67109012,
-      "date": 133962150538803289
+      "date": 133968653731843430
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A320_Decals_Exterior_Albd.png.DDS.FLAGS",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A320_Decals_Exterior_Albd.png.DDS.FLAGS",
       "size": 18,
-      "date": 133683886810000000
+      "date": 133968653732218544
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A320_DECALS_EXTERIOR_ALBD.PNG.DDS.json",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A320_DECALS_EXTERIOR_ALBD.PNG.DDS.json",
       "size": 100,
-      "date": 133683886810000000
+      "date": 133968653731885777
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A320_DECALS_WINGS_ALBD.PNG.DDS",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A320_DECALS_WINGS_ALBD.PNG.DDS",
       "size": 16777364,
-      "date": 133962150457201365
+      "date": 133968653732218544
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A320_DECALS_WINGS_ALBD.PNG.DDS.json",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A320_DECALS_WINGS_ALBD.PNG.DDS.json",
       "size": 119,
-      "date": 133536333240000000
+      "date": 133968653732218544
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A320_TAIL_ALBD.PNG.DDS",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A320_TAIL_ALBD.PNG.DDS",
       "size": 8388736,
-      "date": 133965488859854335
+      "date": 133968653732518293
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A320_tail_albd.png.DDS.FLAGS",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A320_tail_albd.png.DDS.FLAGS",
       "size": 18,
-      "date": 133683886810000000
+      "date": 133968653732593352
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A320_TAIL_ALBD.PNG.DDS.json",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A320_TAIL_ALBD.PNG.DDS.json",
       "size": 83,
-      "date": 133683886810000000
+      "date": 133968653732558614
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A320_WINGTIP_FENCE_ALBD.PNG.DDS",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A320_WINGTIP_FENCE_ALBD.PNG.DDS",
       "size": 1048724,
-      "date": 133962150250472498
+      "date": 133968653732593352
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A320_wingtip_fence_albd.png.DDS.FLAGS",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A320_wingtip_fence_albd.png.DDS.FLAGS",
       "size": 18,
-      "date": 133683886810000000
+      "date": 133968653732593352
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A320_WINGTIP_FENCE_ALBD.PNG.DDS.json",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A320_WINGTIP_FENCE_ALBD.PNG.DDS.json",
       "size": 83,
-      "date": 133683886810000000
+      "date": 133968653732593352
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A32X_FAP_DECAL.PNG.DDS",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A32X_FAP_DECAL.PNG.DDS",
       "size": 1048724,
-      "date": 133962151785937811
+      "date": 133968653732593352
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A32X_FAP_DECAL.PNG.DDS.json",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A32X_FAP_DECAL.PNG.DDS.json",
       "size": 102,
-      "date": 133534546640000000
+      "date": 133968653732635283
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A32X_WING_ALBD.PNG.DDS",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A32X_WING_ALBD.PNG.DDS",
       "size": 33554560,
-      "date": 133962151560211338
+      "date": 133968653734336044
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A32X_WING_ALBD.PNG.DDS.json",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A32X_WING_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 133683886820000000
+      "date": 133968653734353921
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A32X_WING_COMP.PNG.DDS",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A32X_WING_COMP.PNG.DDS",
       "size": 67108992,
-      "date": 133683886840000000
+      "date": 133968653736926289
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/A32X_WING_COMP.PNG.DDS.json",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/A32X_WING_COMP.PNG.DDS.json",
       "size": 166,
-      "date": 133683886840000000
+      "date": 133968653736926289
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/texture.CFG",
-      "size": 165,
-      "date": 133683886840000000
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/texture.CFG",
+      "size": 169,
+      "date": 133968653736926289
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/thumbnail.jpg",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/thumbnail.jpg",
       "size": 679522,
-      "date": 133962241407225236
+      "date": 133968653736926289
     },
     {
-      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2081/texture.CEF-2081/thumbnail_small.jpg",
+      "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-2801/texture.CEF-2801/thumbnail_small.jpg",
       "size": 258012,
-      "date": 133962241391923242
+      "date": 133968653737060827
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/aircraft.cfg",
       "size": 1039,
-      "date": 133966311698148813
+      "date": 133968653737060827
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A319_FUSE_1_ALBD.PNG.dds",
       "size": 33554560,
-      "date": 133965504925097813
+      "date": 133968653738326661
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A319_fuse_1_Albd.png.DDS.FLAGS",
       "size": 18,
-      "date": 133683886800000000
+      "date": 133968653740871980
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A319_FUSE_1_ALBD.PNG.DDS.json",
       "size": 83,
-      "date": 133683886760000000
+      "date": 133968653737060827
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A319_fuse_1_Comp.png.DDS.FLAGS",
       "size": 18,
-      "date": 133683886800000000
+      "date": 133968653740871980
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A319_FUSE_1_COMP.PNG.DDS.json",
       "size": 147,
-      "date": 133683886770000000
+      "date": 133968653738326661
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A319_FUSE_2_ALBD.PNG.dds",
       "size": 33554560,
-      "date": 133965540400705724
+      "date": 133968653739651276
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A319_fuse_2_Albd.png.DDS.FLAGS",
       "size": 18,
-      "date": 133683886800000000
+      "date": 133968653740871980
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A319_FUSE_2_ALBD.PNG.DDS.json",
       "size": 83,
-      "date": 133683886770000000
+      "date": 133968653738326661
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A319_fuse_2_Comp.png.DDS.FLAGS",
       "size": 18,
-      "date": 133683886800000000
+      "date": 133968653740871980
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A319_FUSE_2_COMP.PNG.DDS.json",
       "size": 147,
-      "date": 133683886780000000
+      "date": 133968653739651276
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A319_FUSE_3_ALBD.PNG.dds",
       "size": 33554560,
-      "date": 133965486438387007
+      "date": 133968653740871980
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A319_fuse_3_Albd.png.DDS.FLAGS",
       "size": 18,
-      "date": 133683886800000000
+      "date": 133968653740871980
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A319_FUSE_3_ALBD.PNG.DDS.json",
       "size": 83,
-      "date": 133683886780000000
+      "date": 133968653739651276
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A319_fuse_3_Comp.png.DDS.FLAGS",
       "size": 18,
-      "date": 133683886800000000
+      "date": 133968653740871980
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A319_FUSE_3_COMP.PNG.DDS.json",
       "size": 147,
-      "date": 133683886800000000
+      "date": 133968653740871980
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A320_CABIN_FNX_ALBD.PNG.DDS",
       "size": 22369796,
-      "date": 133689064010000000
+      "date": 133968653741154805
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A320_CABIN_FNX_ALBD.PNG.DDS.json",
       "size": 119,
-      "date": 133683886800000000
+      "date": 133968653741154805
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A320_CFM_COWLING_ALBD.PNG.dds",
       "size": 16777364,
-      "date": 133961945084641099
+      "date": 133968653741989900
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A320_CFM_cowling_Albd.png.DDS.FLAGS",
       "size": 18,
-      "date": 133529517100000000
+      "date": 133968653743743899
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A320_CFM_COWLING_ALBD.PNG.DDS.json",
       "size": 83,
-      "date": 133529517100000000
+      "date": 133968653741154805
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A320_CFM_INTERNALS_ALBD.PNG.DDS",
       "size": 33554560,
-      "date": 133586451580000000
+      "date": 133968653743723487
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A320_CFM_internals_Albd.png.DDS.FLAGS",
       "size": 18,
-      "date": 133516715640000000
+      "date": 133968653743743899
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A320_CFM_INTERNALS_ALBD.PNG.DDS.json",
       "size": 83,
-      "date": 133529517100000000
+      "date": 133968653743743899
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A320_DECALS_DOORS_ALBD.PNG.DDS",
       "size": 1048724,
-      "date": 133962150592269426
+      "date": 133968653743760781
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A320_DECALS_DOORS_ALBD.PNG.DDS.json",
       "size": 119,
-      "date": 133683886800000000
+      "date": 133968653743773748
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A320_DECALS_EXTERIOR_ALBD.PNG.DDS",
       "size": 67109012,
-      "date": 133962150538803289
+      "date": 133968653745851312
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A320_Decals_Exterior_Albd.png.DDS.FLAGS",
       "size": 18,
-      "date": 133683886810000000
+      "date": 133968653746052673
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A320_DECALS_EXTERIOR_ALBD.PNG.DDS.json",
       "size": 100,
-      "date": 133683886810000000
+      "date": 133968653745851312
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A320_DECALS_WINGS_ALBD.PNG.DDS",
       "size": 16777364,
-      "date": 133962150457201365
+      "date": 133968653746013636
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A320_DECALS_WINGS_ALBD.PNG.DDS.json",
       "size": 119,
-      "date": 133536333240000000
+      "date": 133968653746013636
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A320_TAIL_ALBD.PNG.DDS",
       "size": 8388736,
-      "date": 133965488226515282
+      "date": 133968653746221754
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A320_tail_albd.png.DDS.FLAGS",
       "size": 18,
-      "date": 133683886810000000
+      "date": 133968653746430999
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A320_TAIL_ALBD.PNG.DDS.json",
       "size": 83,
-      "date": 133683886810000000
+      "date": 133968653746390276
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A320_WINGTIP_FENCE_ALBD.PNG.DDS",
       "size": 1048724,
-      "date": 133962150250472498
+      "date": 133968653746430999
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A320_wingtip_fence_albd.png.DDS.FLAGS",
       "size": 18,
-      "date": 133683886810000000
+      "date": 133968653746430999
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A320_WINGTIP_FENCE_ALBD.PNG.DDS.json",
       "size": 83,
-      "date": 133683886810000000
+      "date": 133968653746430999
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A32X_FAP_DECAL.PNG.DDS",
       "size": 1048724,
-      "date": 133962151785937811
+      "date": 133968653746469138
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A32X_FAP_DECAL.PNG.DDS.json",
       "size": 102,
-      "date": 133534546640000000
+      "date": 133968653746469138
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A32X_WING_ALBD.PNG.DDS",
       "size": 33554560,
-      "date": 133962151560211338
+      "date": 133968653748038189
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A32X_WING_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 133683886820000000
+      "date": 133968653748129727
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A32X_WING_COMP.PNG.DDS",
       "size": 67108992,
-      "date": 133683886840000000
+      "date": 133968653750716000
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/A32X_WING_COMP.PNG.DDS.json",
       "size": 166,
-      "date": 133683886840000000
+      "date": 133968653750716000
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/texture.CFG",
-      "size": 165,
-      "date": 133683886840000000
+      "size": 169,
+      "date": 133968653750716000
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/thumbnail.jpg",
       "size": 679522,
-      "date": 133962241407225236
+      "date": 133968653750750990
     },
     {
       "path": "SimObjects/Airplanes/FNX_319_CFM_CEF-3085/texture.CEF-3085/thumbnail_small.jpg",
       "size": 258012,
-      "date": 133962241391923242
+      "date": 133968653750772438
     }
   ]
 }
